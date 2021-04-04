@@ -1,0 +1,8 @@
+.feedback {
+  display: flex;
+  justify-content: center;
+}
+
+.appraisal {
+  margin: 10px;
+}

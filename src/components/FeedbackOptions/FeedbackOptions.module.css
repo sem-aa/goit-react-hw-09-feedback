@@ -1,0 +1,11 @@
+.button {
+  margin: 5px;
+  cursor: pointer;
+}
+
+div {
+  margin: auto auto;
+  background-color: grey;
+  text-align: center;
+  color: white;
+}
